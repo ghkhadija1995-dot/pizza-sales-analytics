@@ -114,9 +114,7 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 │   ├── pizza_sales_db_full.sql      # create tables + insert data
 │   └── sample_queries.sql           # analytical queries
 ├── powerbi/
-│   ├── Pizza_Sales_Dashboard.pbix
-│   ├── pizza_theme.json
-│   └── dashboard_background.png
+│   └──  Pizza_Sales_Dashboard.pbix
 ├── images/
 │   └── dashboard.png
 └── README.md
