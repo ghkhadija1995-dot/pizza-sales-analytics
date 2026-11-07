@@ -124,7 +124,7 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 1. **SQL:** open `sql/pizza_sales_db_full.sql` in MySQL Workbench and run it to create the `pizza_sales_db` database with all tables and data.
 2. **Queries:** run `sql/sample_queries.sql` to see the aggregated results.
-3. **Power BI:** open `Pizza_Sales_Dashboard.pbix` in Power BI Desktop. To apply the visual style on a new report, import `pizza_theme.json` (View → Themes → Browse for themes) and set `dashboard_background.png` as the page background.
+3. **Power BI:** open `Pizza_Sales_Dashboard.pbix` in Power BI Desktop.
 
 ## 💡 Skills Demonstrated
 
